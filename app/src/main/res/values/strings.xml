@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">FarmaChinchanito</string>
+    <string name="app_name">Farmacia Chinchanito</string>
+    <string name="home">Home</string>
+    <string name="productos">Productos</string>
+    <string name="nosotros">Nosotros</string>
+    <string name="ubicacion">Ubicaciones</string>
+    <string name="otros">Otros</string>
+    <string name="perfil">Perfil</string>
+    <string name="name_usuario">Keller Romani</string>
+    <string name="correo">direccion de correo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="productos_fragment">productos fragment</string>
+    <string name="nosotros_fragments">nosotros fragments</string>
+
+    <string name="drawer_abierto">Menu abierto</string>
+    <string name="drawer_cerrado">Menu cerrado</string>
 </resources>
