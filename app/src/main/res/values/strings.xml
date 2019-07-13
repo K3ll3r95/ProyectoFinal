@@ -17,4 +17,5 @@
 
     <string name="drawer_abierto">Menu abierto</string>
     <string name="drawer_cerrado">Menu cerrado</string>
+    <string name="title_activity_pastillas">PastillasActivity</string>
 </resources>

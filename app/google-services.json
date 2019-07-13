@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514164076291",
+    "firebase_url": "https://farmachinchanito.firebaseio.com",
+    "project_id": "farmachinchanito",
+    "storage_bucket": "farmachinchanito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514164076291:android:cdbf2c029fdcfec7",
+        "android_client_info": {
+          "package_name": "com.example.farmachinchanito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514164076291-2ccuq2rud6tf5ldao28c2miovn3irkih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmachinchanito",
+            "certificate_hash": "1449a89e91dc2bf1778e127d669fe6317e778689"
+          }
+        },
+        {
+          "client_id": "514164076291-kuf9bieogcs1528s0avjhe5m3k5amaca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFsJblNoYbb28iUhZ7BU8Jbz59hcNAatI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514164076291-kuf9bieogcs1528s0avjhe5m3k5amaca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
